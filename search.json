@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jaocb Liu",
+    "section": "",
+    "text": "My name is Jacob Liu and I am a sophomore at Denton High School. I am building this website to track stock market data.\nknitr::include_graphics(unamed.png)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Jacob Liu. I am a Junior at Denton High School."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "Building llm-based forecast:\n\nfinance\nbiomedical"
+  }
+]
